@@ -1,0 +1,28 @@
+int hehe,xixi;
+int iii()
+{
+	return 5;
+}
+int inc(int m,int n)
+{
+	int k,kk;
+	m = 5;
+	k = 2;
+	return k*(m-5);
+}
+int main()
+{
+	int i,j;
+	//i = inc(2,j);
+	j = i;
+	i = j;
+	j = i*2;
+	j = i + 2 * 5;
+	while(i == 1)
+		i = 2;
+	if(i==1&&i<=2)
+		i = 3;
+	else
+		i = 4;
+	return 0;
+}

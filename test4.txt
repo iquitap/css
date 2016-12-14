@@ -1,0 +1,19 @@
+struct Complex
+{
+	float real,image;
+}a,b;
+
+struct 
+{
+	int xixi;
+};
+int main()
+{
+	struct Comple
+	{
+		int aa,bb;
+		int aa;
+		float c[10];
+	}hehe;
+	struct Complex x,x;
+}
